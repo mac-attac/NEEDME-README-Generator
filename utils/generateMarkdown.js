@@ -69,9 +69,9 @@ function generateMarkdown(data) {
   return `
 ${renderLicenseBadge(data)}${addCCBadge(data)}
 
-#${data.title}
+# ${data.title}
 
-##Description
+## Description
 
 ${data.what}
 
@@ -79,42 +79,42 @@ ${data.why}
 
 ${data.how}
 
-##Table of Contents
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 
-##Installation
+## Installation
 
 ${data.install}
 
-##Usage
+## Usage
 
 ${data.usage}
 
-##Credits
+## Credits
 
 ${data.credit}
 
-##License
+## License
 
 ${renderLicenseSection(data)}
 
 ${renderLicenseLink(data)}
 
-##Contributing 
+## Contributing 
 
 Feel free to contribute to this repository by logging bugs, submitting a pull request, or leaving a comment.
 
 ${addContributorCovenant(data)}
   
-##Tests
+## Tests
 
 ${data.tests}
 
-##Questions
+## Questions
 
 If you have any questions about this project, contact me on [GitHub](github.com/${data.username}) or by email at ${data.email}.
 `;

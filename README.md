@@ -1,51 +1,51 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](code_of_conduct.md)
 
-#NEEDME.md - A README Generator
+# NEEDME.md - A Good README Generator
 
-##Description
+## Description
 
-To generate good READMEs
+To save time and keep consistency across all generated READMEs
 
-READMEs take a lot of time to generate, this helps to cut down on the time.
+Same as above.
 
-It saves time by creating READMEs
+Same as above.
 
-##Table of Contents
+## Table of Contents
 
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
 
-##Installation
+## Installation
 
-We need to use "npm i inquirer" to initialize the npm module
+We need to run an "npm init -y" and "npm i inquirer".
 
-##Usage
+## Usage
 
-Should be used to help facilitate README generation.
+Use this for generating READMEs.
 
-##Credits
+## Credits
 
 Me, myself, and I.
 
-##License
+## License
 
 Copyright (c) Stephen McNamara. All rights reserved.
 
 Licensed under the [MIT License](LICENSE.txt) license.
 
-##Contributing 
+## Contributing 
 
 Feel free to contribute to this repository by logging bugs, submitting a pull request, or leaving a comment.
 
 This project has adopted the [Contributor Covenant](https://www.contributor-covenant.org/) guidelines for contribution. Please see their [FAQ](https://www.contributor-covenant.org/faq/) for any additional questions.
   
-##Tests
+## Tests
 
- I did not create any tests to run on this project.
+Did not have any tests created for this application.
 
-##Questions
+## Questions
 
-If you have any questions about this project, contact me on [GitHub](github.com/mac-attac) or by email at stephenmcnamara@fakemail.com.
+If you have any questions about this project, contact me on [GitHub](github.com/mac-attac) or by email at steve@fakemail.com.
